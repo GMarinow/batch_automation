@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: batch-automation
-Version: 0.0.1
+Version: 0.0.3
 Summary: Batch Automation Tools and Packages
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/GMarinow/batch_automation
 Author: Georgi Marinov
 Author-email: georgi.marinow@gmail.com
 License: Apache Software License 2.0
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Bug Tracker, https://github.com/GMarinow/batch_automation/issues
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: Apache Software License
 Classifier: Operating System :: OS Independent
