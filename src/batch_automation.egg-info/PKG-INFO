@@ -17,11 +17,9 @@ Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # Batch Automation
-![Image](https://img.shields.io/pypi/v/batch_automation.svg)
+![Image](https://img.shields.io/pypi/v/batch_automation.svg) [![Downloads](https://img.shields.io/pypi/dm/batch_automation)](https://pypistats.org/packages/batch_automation)
 
-[![Stable Version](https://img.shields.io/batch_automation/v/batch_automation?color=blue)](https://pypi.org/project/batch_automation/)
-
-[![Downloads](https://img.shields.io/pypi/dm/batch_automation)](https://pypistats.org/packages/batch_automation)
+<!-- [![Stable Version](https://img.shields.io/batch_automation/v/batch_automation?color=blue)](https://pypi.org/project/batch_automation/) -->
 
 Batch Automation is a Python library with a variety of functions and APIs for dealing with 3d and non-3d related stuff.
 

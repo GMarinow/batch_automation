@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="batch_automation",
-    version="0.0.1",
+    version="0.0.3",
     author="Georgi Marinov",
     author_email="georgi.marinow@gmail.com",
     description="Batch Automation Tools and Packages",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/GMarinow/batch_automation",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/GMarinow/batch_automation/issues",
     },
     install_requires=[
         'google-api-python-client',
